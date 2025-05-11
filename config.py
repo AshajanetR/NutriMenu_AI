@@ -1,13 +1,13 @@
 # Nutrition Agent Configuration
 
 # Groq API credentials
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # Email configuration
-EMAIL_SENDER = "ashajanet7@gmail.com"
-EMAIL_PASSWORD = "vkcn ipvk osfb veee"
-EMAIL_RECEIVER = "ashajanetr@gmail.com"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""
+EMAIL_RECEIVER = ""
 
 # Scheduling configuration
 DAILY_SEND_TIME = "06:00"
